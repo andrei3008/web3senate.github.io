@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
       <BrowserRouter>
           <GoogleReCaptchaProvider
-              reCaptchaKey="[Your recaptcha key]"
+              reCaptchaKey="6Lc3yckkAAAAANLfw6-VsUxhbHoXY961T5XF2gHb"
               useRecaptchaNet="false"
               useEnterprise="false"
           >
